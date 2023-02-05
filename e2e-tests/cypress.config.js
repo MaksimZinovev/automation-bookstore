@@ -6,7 +6,7 @@ module.exports = defineConfig({
     toConsole: true,
   },
   e2e: {
-    baseUrl: 'https://mzinbookstore-linux.azurewebsites.net',
+    baseUrl: 'http://localhost:5500',
     pageLoadTimeout: 120000,
     setupNodeEvents(on, config) {
       // implement node event listeners here

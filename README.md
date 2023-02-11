@@ -48,6 +48,6 @@ npx run cypress
 
 
 
-![](./img/AutomationBookstore.jpg)
+![Automation Bookstore](./img/AutomationBookstore.png)
 
-![](./img/RunFinishedCypress.jpg)
+![Test run results](./img/RunFinishedCypress.jpg)

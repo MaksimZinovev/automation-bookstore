@@ -6,7 +6,7 @@ module.exports = defineConfig({
     toConsole: true,
   },
   e2e: {
-    baseUrl: 'http://localhost:5500',
+    baseUrl: 'http://127.0.0.1:8080',
     pageLoadTimeout: 120000,
     setupNodeEvents(on, config) {
       // implement node event listeners here

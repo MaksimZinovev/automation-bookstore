@@ -47,7 +47,6 @@ npx run cypress
 ```
 
 
-
-![Automation Bookstore](./img/AutomationBookstore.jpg)
+![Automation Bookstore](./img/AutomationBookstore.jpg)  
 
 ![Test run results](./img/RunFinishedCypress.jpg)

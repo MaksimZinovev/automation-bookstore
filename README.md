@@ -20,10 +20,21 @@ To run tests locally
 ```shell
 npm install live-server -g
 ```
+Run the website 
+
+```shell
+live-server
+```
 
 2. Chek in your browser http://127.0.0.1:8080/. Website should be accessible 
 3. Install Cypress
+To install dependencies 
 
+```
+cd e2e-tests/
+npm install
+```
+To init new npm project
 ```shell
 cd e2e-tests
 npm init -y
@@ -34,13 +45,7 @@ npx cypress open
 Follow propmpts and complete setup for Chrome. 
 Run `search.cy.js` in Cypress app to check if it is working.
 
-3. Run the website 
-
-```shell
-live-server
-```
-
-4. Run cypress tests from CLI
+1. Run cypress tests from CLI
 
 ```shell
 npx run cypress

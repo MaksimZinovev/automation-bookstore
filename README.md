@@ -20,13 +20,14 @@ To run tests locally
 ```shell
 npm install live-server -g
 ```
+
 Run the website 
 
 ```shell
 live-server
 ```
 
-2. Chek in your browser http://127.0.0.1:8080/. Website should be accessible 
+2. Check in your browser http://127.0.0.1:8080/. Website should be accessible 
 3. Install Cypress
 To install dependencies 
 
@@ -34,7 +35,8 @@ To install dependencies
 cd e2e-tests/
 npm install
 ```
-To init new npm project
+
+If you want to init new npm project
 ```shell
 cd e2e-tests
 npm init -y

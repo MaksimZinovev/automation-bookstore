@@ -1,0 +1,637 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: https://scoolendar.com
+      - generic [ref=e6]:
+        - list [ref=e7]:
+          - listitem [ref=e8]:
+            - link "Home" [ref=e9] [cursor=pointer]:
+              - /url: https://scoolendar.com
+              - img [ref=e10]
+              - text: Home
+          - listitem [ref=e11]:
+            - link "About Us" [ref=e12] [cursor=pointer]:
+              - /url: https://scoolendar.com/about
+              - img [ref=e13]
+              - text: About Us
+          - listitem [ref=e14]:
+            - link "Scoolendar" [ref=e15] [cursor=pointer]:
+              - /url: https://scoolendar.com/scoolendar/calendar
+              - img [ref=e16]
+              - text: Scoolendar
+          - listitem [ref=e17]:
+            - link "Community connect" [ref=e18] [cursor=pointer]:
+              - /url: https://scoolendar.com/communities/map
+              - img [ref=e19]
+              - text: Community connect
+          - listitem [ref=e20]:
+            - link " How it works" [ref=e21] [cursor=pointer]:
+              - /url: https://scoolendar.com/help-center
+              - generic [ref=e22]: 
+              - text: How it works
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - link "Sign in" [ref=e25] [cursor=pointer]:
+              - /url: https://scoolendar.com/auth/login
+          - listitem [ref=e26]:
+            - link "Create Account" [ref=e27] [cursor=pointer]:
+              - /url: https://scoolendar.com/register
+  - main [ref=e28]:
+    - generic [ref=e30]:
+      - generic [ref=e40]:
+        - generic:
+          - generic: a Smart and Cool calendar
+          - generic: for homeschooling families
+        - button "Get started now" [ref=e42] [cursor=pointer]:
+          - generic [ref=e43]: Get started now
+      - generic [ref=e44]:
+        - button "Learn" [ref=e45] [cursor=pointer]:
+          - generic [ref=e47]:
+            - generic [ref=e49]: Learn
+            - paragraph [ref=e51]: Find & Plan Events
+        - button "Connect" [ref=e52] [cursor=pointer]:
+          - generic [ref=e54]:
+            - generic [ref=e56]: Connect
+            - paragraph [ref=e58]: Find Local Community
+        - button "Document" [ref=e59] [cursor=pointer]:
+          - generic [ref=e61]:
+            - generic [ref=e63]: Document
+            - paragraph [ref=e65]: Print Plans and Reports
+    - listbox [ref=e71]:
+      - generic [ref=e74]:
+        - heading "Together with Scoolendar you will:" [level=2] [ref=e76]
+        - list [ref=e77]:
+          - listitem [ref=e78]:
+            - generic [ref=e79]: Connect to your local homeschooling group
+            - text: via the
+            - link "Community Connect" [ref=e80] [cursor=pointer]:
+              - /url: https://scoolendar.com/communities/map
+            - text: page. Please be advised that you can see and post all the public or private events, but to see your local community events you need to be approved by your local Scoolenteers by sending them your request via the
+            - link "Community Connect" [ref=e81] [cursor=pointer]:
+              - /url: https://scoolendar.com/communities/map
+            - text: page. Scoolenteers are trusted community members, who will ask you a few questions in order to approve your request. Once approved, you will be able to see all the events organised by your local community members.
+          - listitem [ref=e82]:
+            - generic [ref=e83]: Find events,
+            - text: local gatherings or educational activities using a search filter for interest/subject, stage, outcome, age, location, time, day, and price via the
+            - link "“Scoolendar”" [ref=e84] [cursor=pointer]:
+              - /url: https://scoolendar.com/scoolendar/calendar
+            - text: page. Scoolendar will assist with task management and reminders as well as with posting your own events.
+          - listitem [ref=e85]:
+            - generic [ref=e86]: Convert all attended events into a summary report
+            - text: that can be used to keep your lovely memories, track your progress or sent as part of your application for homeschooling registration. You can generate a report based on all the activities participated by each of your children from the
+            - link "My Account" [ref=e87] [cursor=pointer]:
+              - /url: https://scoolendar.com/profile
+            - text: page. This is the only paid feature in this not-for-profit project that will help to run the application.
+          - listitem [ref=e88]:
+            - generic [ref=e89]: Find useful links and resources
+            - text: for your homeschooling under the
+            - link "“How it works”" [ref=e90] [cursor=pointer]:
+              - /url: https://scoolendar.com/help-center
+          - listitem [ref=e91]:
+            - generic [ref=e92]: Create your own curriculum/timetable
+            - text: with all events saved in a private mode to record, track and manage your children’s learning and development progress. All events (e.g. English, Maths, Science etc.) created by you in a private mode will also go to your kids’ “summary report”.
+        - paragraph [ref=e93]:
+          - generic [ref=e94]: Become a Scoolenteer - a smart and cool volunteer!
+          - text: Who are Scoolenteers? Scoolenteers are trusted members of their community and proactive homeschooling parents who positively influence the community; they’re the people who know and welcome most of the homeschooling families in their local area. Scoolendar needs Scoolenteers to approve membership requests to join their communities and to approve community events only visible to community members. As a gesture of appreciation, the Scoolendar team offers a report-generating feature of the app unlocked and free for all Scoolenteers who help to build the local homeschooling communities.
+    - generic [ref=e98]:
+      - heading "Our Upcomings Events" [level=3] [ref=e100]
+      - generic [ref=e102]:
+        - generic [ref=e104]:
+          - heading "Youth Week - Art for Happiness" [level=4] [ref=e107]:
+            - strong [ref=e108]: Youth Week - Art for Happiness
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: Public
+              - generic [ref=e113]: Offline
+              - generic [ref=e114]: Free
+            - generic [ref=e116]: Ages 13 - 17
+          - generic [ref=e117]:
+            - generic [ref=e118]:
+              - generic [ref=e119]:
+                - generic [ref=e120]: Date
+                - paragraph [ref=e121]: 15.04.2026 - 15.04.2026
+              - generic [ref=e122]:
+                - generic [ref=e123]: Time
+                - paragraph [ref=e124]: 14:00 - 16:00
+            - generic [ref=e127]:
+              - generic [ref=e128]: Subject/Topic
+              - paragraph [ref=e129]: The Arts/ Craft
+            - generic [ref=e132]:
+              - generic [ref=e133]: Description
+              - generic [ref=e134]: Our Art for Happiness workshop is designed to spark joy and creativity for young people aged 13+. This in-person event is an opportunity to explore their inner and outer worlds through various art activities.
+          - link "View" [ref=e137] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/392?slug=Youth-Week---Art-for-Happiness
+        - generic [ref=e139]:
+          - heading "Storytime online with Antonia Pesenti" [level=4] [ref=e142]:
+            - strong [ref=e143]: Storytime online with Antonia Pesenti
+          - generic [ref=e145]:
+            - generic [ref=e146]:
+              - generic [ref=e147]: Public
+              - generic [ref=e148]: Online
+              - generic [ref=e149]: Free
+            - generic [ref=e151]: Ages 3 - 6
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - generic [ref=e154]:
+                - generic [ref=e155]: Date
+                - paragraph [ref=e156]: 11.02.2026 - 11.02.2026
+              - generic [ref=e157]:
+                - generic [ref=e158]: Time
+                - paragraph [ref=e159]: 10:00 - 10:45
+            - generic [ref=e162]:
+              - generic [ref=e163]: Subject/Topic
+              - paragraph [ref=e164]: "English: Writing, Grammar and Spelling, Reading"
+            - generic [ref=e167]:
+              - generic [ref=e168]: Description
+              - generic [ref=e169]: Author/illustrator Antonia Pesenti will read two books from her popular ‘Rhyme’ series as well as her new book Hello Cocky, written by Hilary Bell.
+          - link "View" [ref=e172] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/377?slug=Storytime-online-with-Antonia-Pesenti
+        - generic [ref=e174]:
+          - heading "Free Traditional Candy Making Demonstration" [level=4] [ref=e177]:
+            - strong [ref=e178]: Free Traditional Candy Making Demonstration
+          - generic [ref=e180]:
+            - generic [ref=e181]:
+              - generic [ref=e182]: Public
+              - generic [ref=e183]: Offline
+              - generic [ref=e184]: Free
+            - generic [ref=e186]: Ages 5 - 18
+          - generic [ref=e187]:
+            - generic [ref=e188]:
+              - generic [ref=e189]:
+                - generic [ref=e190]: Date
+                - paragraph [ref=e191]: 11.02.2026 - 28.02.2026
+              - generic [ref=e192]:
+                - generic [ref=e193]: Time
+                - paragraph [ref=e194]: 09:30 - 17:00
+            - generic [ref=e197]:
+              - generic [ref=e198]: Subject/Topic
+              - paragraph [ref=e199]: Science
+            - generic [ref=e202]:
+              - generic [ref=e203]: Description
+              - generic [ref=e204]: With millions of followers online and billions of views, Sticky the Lolly Shop still offers a daily free candy-making show for families, friends, travellers and locals.
+          - link "View" [ref=e207] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/376?slug=Free-Traditional-Candy-Making-Demonstration
+        - generic [ref=e209]:
+          - 'heading "Homeschool Makertime: 3D Printing 8-12yrs" [level=4] [ref=e212]':
+            - strong [ref=e213]: "Homeschool Makertime: 3D Printing 8-12yrs"
+          - generic [ref=e215]:
+            - generic [ref=e216]:
+              - generic [ref=e217]: Public
+              - generic [ref=e218]: Offline
+              - generic [ref=e219]: Paid
+            - generic [ref=e221]: Ages 8 - 12
+          - generic [ref=e222]:
+            - generic [ref=e223]:
+              - generic [ref=e224]:
+                - generic [ref=e225]: Date
+                - paragraph [ref=e226]: 10.03.2026 - 10.03.2026
+              - generic [ref=e227]:
+                - generic [ref=e228]: Time
+                - paragraph [ref=e229]: 10:30 - 12:30
+            - generic [ref=e232]:
+              - generic [ref=e233]: Subject/Topic
+              - paragraph [ref=e234]: Technologies
+            - generic [ref=e237]:
+              - generic [ref=e238]: Description
+              - generic [ref=e239]: Looking for a creative way to support your child’s learning? Join us for a practical 2-hour makerspace session for home-school families, designed for children aged 8–12 and their parents or guardians.
+          - link "View" [ref=e242] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/375?slug=Homeschool-Makertime:-3D-Printing-8-12yrs
+        - generic [ref=e244]:
+          - heading "The Gruffalo” – Live on Stage" [level=4] [ref=e247]:
+            - strong [ref=e248]: The Gruffalo” – Live on Stage
+          - generic [ref=e250]:
+            - generic [ref=e251]:
+              - generic [ref=e252]: Public
+              - generic [ref=e253]: Offline
+              - generic [ref=e254]: Paid
+            - generic [ref=e256]: Ages 3 - 10
+          - generic [ref=e257]:
+            - generic [ref=e258]:
+              - generic [ref=e259]:
+                - generic [ref=e260]: Date
+                - paragraph [ref=e261]: 01.02.2026 - 14.02.2026
+              - generic [ref=e262]:
+                - generic [ref=e263]: Time
+                - paragraph [ref=e264]: 10:00 - 14:00
+            - generic [ref=e267]:
+              - generic [ref=e268]: Subject/Topic
+              - paragraph [ref=e269]: "English: Writing, Grammar and Spelling, Reading"
+            - generic [ref=e272]:
+              - generic [ref=e273]: Description
+              - generic [ref=e274]: A fun, interactive stage adaptation of the bestselling children’s book The Gruffalo, filled with music, movement, and imaginative play.
+          - link "View" [ref=e277] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/333?slug=The-Gruffalo%E2%80%9D-%E2%80%93-Live-on-Stage
+        - generic [ref=e279]:
+          - heading "SEA LIFE Sydney Aquarium – Guided Education Program" [level=4] [ref=e282]:
+            - strong [ref=e283]: SEA LIFE Sydney Aquarium – Guided Education Program
+          - generic [ref=e285]:
+            - generic [ref=e286]:
+              - generic [ref=e287]: Public
+              - generic [ref=e288]: Offline
+              - generic [ref=e289]: Paid
+            - generic [ref=e291]: Ages 4 - 14
+          - generic [ref=e292]:
+            - generic [ref=e293]:
+              - generic [ref=e294]:
+                - generic [ref=e295]: Date
+                - paragraph [ref=e296]: 03.02.2026 - 26.06.2026
+              - generic [ref=e297]:
+                - generic [ref=e298]: Time
+                - paragraph [ref=e299]: 09:30 - 15:00
+            - generic [ref=e302]:
+              - generic [ref=e303]: Subject/Topic
+              - paragraph [ref=e304]: Biology
+            - generic [ref=e307]:
+              - generic [ref=e308]: Description
+              - generic [ref=e309]: A guided marine‑science program where students explore ocean habitats, observe sea creatures up close, and learn about conservation, ecosystems, and underwater life.
+          - link "View" [ref=e312] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/332?slug=SEA-LIFE-Sydney-Aquarium-%E2%80%93-Guided-Education-Program
+        - generic [ref=e314]:
+          - heading "🔬 Sydney Observatory – Daytime Telescope & Space Science Program" [level=4] [ref=e317]:
+            - strong [ref=e318]: 🔬 Sydney Observatory – Daytime Telescope & Space Science Program
+          - generic [ref=e320]:
+            - generic [ref=e321]:
+              - generic [ref=e322]: Public
+              - generic [ref=e323]: Offline
+              - generic [ref=e324]: Paid
+            - generic [ref=e326]: Ages 3 - 12
+          - generic [ref=e327]:
+            - generic [ref=e328]:
+              - generic [ref=e329]:
+                - generic [ref=e330]: Date
+                - paragraph [ref=e331]: 03.02.2026 - 30.06.2026
+              - generic [ref=e332]:
+                - generic [ref=e333]: Time
+                - paragraph [ref=e334]: 10:00 - 15:00
+            - generic [ref=e337]:
+              - generic [ref=e338]: Subject/Topic
+              - paragraph [ref=e339]: Science
+            - generic [ref=e342]:
+              - generic [ref=e343]: Description
+              - generic [ref=e344]: A hands‑on astronomy session where students explore space science, use solar telescopes, handle meteorites, and learn how scientists study the Sun, planets, and the universe.
+          - link "View" [ref=e347] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/331?slug=%F0%9F%94%AC-Sydney-Observatory-%E2%80%93-Daytime-Telescope-&-Space-Science-Program
+        - generic [ref=e349]:
+          - heading "The Biennale of Sydney 2026" [level=4] [ref=e352]:
+            - strong [ref=e353]: The Biennale of Sydney 2026
+          - generic [ref=e355]:
+            - generic [ref=e356]:
+              - generic [ref=e357]: Public
+              - generic [ref=e358]: Offline
+              - generic [ref=e359]: Free
+            - generic [ref=e361]: Ages 5 - 18
+          - generic [ref=e362]:
+            - generic [ref=e363]:
+              - generic [ref=e364]:
+                - generic [ref=e365]: Date
+                - paragraph [ref=e366]: 14.04.2026 - 14.06.2026
+              - generic [ref=e367]:
+                - generic [ref=e368]: Time
+                - paragraph [ref=e369]: 10:00 - 17:00
+            - generic [ref=e372]:
+              - generic [ref=e373]: Subject/Topic
+              - paragraph [ref=e374]: "HSIE: Human Society and its Environment"
+            - generic [ref=e377]:
+              - generic [ref=e378]: Description
+              - generic [ref=e379]: A free, city‑wide art festival exploring memory, history, and storytelling through installations, performances, and exhibitions across Sydney.
+          - link "View" [ref=e382] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/330?slug=The-Biennale-of-Sydney-2026
+        - generic [ref=e384]:
+          - 'heading "RELICS: A New World Rises" [level=4] [ref=e387]':
+            - strong [ref=e388]: "RELICS: A New World Rises"
+          - generic [ref=e390]:
+            - generic [ref=e391]:
+              - generic [ref=e392]: Public
+              - generic [ref=e393]: Offline
+              - generic [ref=e394]: Paid
+            - generic [ref=e396]: Ages 5 - 18
+          - generic [ref=e397]:
+            - generic [ref=e398]:
+              - generic [ref=e399]:
+                - generic [ref=e400]: Date
+                - paragraph [ref=e401]: 16.08.2025 - 01.02.2026
+              - generic [ref=e402]:
+                - generic [ref=e403]: Time
+                - paragraph [ref=e404]: 10:00 - 16:00
+            - generic [ref=e407]:
+              - generic [ref=e408]: Subject/Topic
+              - paragraph [ref=e409]: Technologies
+            - generic [ref=e412]:
+              - generic [ref=e413]: Description
+              - generic [ref=e414]: A creative LEGO® exhibition where students explore miniature worlds built inside vintage objects, discovering stories of sustainability, design, and innovation through interactive displays.
+          - link "View" [ref=e417] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/329?slug=RELICS:-A-New-World-Rises
+        - generic [ref=e419]:
+          - heading "Expression Session" [level=4] [ref=e422]:
+            - strong [ref=e423]: Expression Session
+          - generic [ref=e425]:
+            - generic [ref=e426]:
+              - generic [ref=e427]: Public
+              - generic [ref=e428]: Offline
+              - generic [ref=e429]: Free
+            - generic [ref=e431]: Ages 8 -
+          - generic [ref=e432]:
+            - generic [ref=e433]:
+              - generic [ref=e434]:
+                - generic [ref=e435]: Date
+                - paragraph [ref=e436]: 30.01.2026 - 30.01.2026
+              - generic [ref=e437]:
+                - generic [ref=e438]: Time
+                - paragraph [ref=e439]: 10:30 - 11:15
+            - generic [ref=e442]:
+              - generic [ref=e443]: Subject/Topic
+              - paragraph [ref=e444]: The Arts/ Craft
+            - generic [ref=e447]:
+              - generic [ref=e448]: Description
+              - generic [ref=e449]: Let your creativity flow! In this relaxed painting session, kids will paint with vibrant colours to create whatever their imagination dreams up. No rules, just fun and creativity! Things may get a little messy so please wear appropriate clothing.
+          - link "View" [ref=e452] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/328?slug=Expression-Session
+        - generic [ref=e454]:
+          - heading "Learn Basketball" [level=4] [ref=e457]:
+            - strong [ref=e458]: Learn Basketball
+          - generic [ref=e460]:
+            - generic [ref=e461]:
+              - generic [ref=e462]: Public
+              - generic [ref=e463]: Offline
+              - generic [ref=e464]: Free
+            - generic [ref=e466]: Ages 8 - 10
+          - generic [ref=e467]:
+            - generic [ref=e468]:
+              - generic [ref=e469]:
+                - generic [ref=e470]: Date
+                - paragraph [ref=e471]: 07.02.2026 - 07.02.2026
+              - generic [ref=e472]:
+                - generic [ref=e473]: Time
+                - paragraph [ref=e474]: 10:00 - 10:45
+            - generic [ref=e477]:
+              - generic [ref=e478]: Subject/Topic
+              - paragraph [ref=e479]: "Sports: Football, Soccer, Basketball, Volleyball, Baseball, Rugby, Cricket"
+            - generic [ref=e482]:
+              - generic [ref=e483]: Description
+              - generic [ref=e484]: MiniBall is ProBall’s flagship learn-to-play program, and new kids get 4 weeks FREE. Come hoop with us! 🏀 MiniBall Learn to Play Basketball, for kids aged 8-10! New families get 4 weeks FREE, so your child can try basketball without any commitment.
+          - link "View" [ref=e487] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/326?slug=Learn-Basketball
+        - generic [ref=e489]:
+          - 'heading "Summer Holiday Fun: Mini-Comix Makers with Lu" [level=4] [ref=e492]':
+            - strong [ref=e493]: "Summer Holiday Fun: Mini-Comix Makers with Lu"
+          - generic [ref=e495]:
+            - generic [ref=e496]:
+              - generic [ref=e497]: Public
+              - generic [ref=e498]: Offline
+              - generic [ref=e499]: Free
+            - generic [ref=e501]: Ages 13 - 18
+          - generic [ref=e502]:
+            - generic [ref=e503]:
+              - generic [ref=e504]:
+                - generic [ref=e505]: Date
+                - paragraph [ref=e506]: 29.01.2026 - 29.01.2026
+              - generic [ref=e507]:
+                - generic [ref=e508]: Time
+                - paragraph [ref=e509]: 10:30 - 12:00
+            - generic [ref=e512]:
+              - generic [ref=e513]: Subject/Topic
+              - paragraph [ref=e514]: Digital Art
+            - generic [ref=e517]:
+              - generic [ref=e518]: Description
+              - generic [ref=e519]: Love graphic novels? Can’t get enough comics? Wanna’ bring your OCs (original characters) to life, panel by panel? Spend a relaxed morning with library assistant and keen zinester, Lu, to tell a short story using sequential narrative.
+          - link "View" [ref=e522] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/325?slug=Summer-Holiday-Fun:-Mini-Comix-Makers-with-Lu
+        - generic [ref=e524]:
+          - 'heading "Summer Holiday Fun: Teen Gaming Lounge" [level=4] [ref=e527]':
+            - strong [ref=e528]: "Summer Holiday Fun: Teen Gaming Lounge"
+          - generic [ref=e530]:
+            - generic [ref=e531]:
+              - generic [ref=e532]: Public
+              - generic [ref=e533]: Offline
+              - generic [ref=e534]: Free
+            - generic [ref=e536]: Ages 13 - 18
+          - generic [ref=e537]:
+            - generic [ref=e538]:
+              - generic [ref=e539]:
+                - generic [ref=e540]: Date
+                - paragraph [ref=e541]: 08.01.2026 - 08.01.2026
+              - generic [ref=e542]:
+                - generic [ref=e543]: Time
+                - paragraph [ref=e544]: 13:00 - 15:00
+            - generic [ref=e547]:
+              - generic [ref=e548]: Subject/Topic
+              - paragraph [ref=e549]: Holiday workshop/activity/meet-up
+            - generic [ref=e552]:
+              - generic [ref=e553]: Description
+              - generic [ref=e554]: Try out the latest Switch 2 (Mario Kart World), Oculus VR, and PS5! Whether you’re a pro, or a casual gamer, come hang out with friends, try something new and level up your skills. This is your space to explore and unwind for the holidays!
+          - link "View" [ref=e557] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/323?slug=Summer-Holiday-Fun:-Teen-Gaming-Lounge
+        - generic [ref=e559]:
+          - 'heading "Summer Holiday Fun: Mega Maths Mania" [level=4] [ref=e562]':
+            - strong [ref=e563]: "Summer Holiday Fun: Mega Maths Mania"
+          - generic [ref=e565]:
+            - generic [ref=e566]:
+              - generic [ref=e567]: Public
+              - generic [ref=e568]: Offline
+              - generic [ref=e569]: Free
+            - generic [ref=e571]: Ages 13 - 18
+          - generic [ref=e572]:
+            - generic [ref=e573]:
+              - generic [ref=e574]:
+                - generic [ref=e575]: Date
+                - paragraph [ref=e576]: 13.01.2026 - 13.01.2026
+              - generic [ref=e577]:
+                - generic [ref=e578]: Time
+                - paragraph [ref=e579]: 11:00 - 13:00
+            - generic [ref=e582]:
+              - generic [ref=e583]: Subject/Topic
+              - paragraph [ref=e584]: Mathematics
+            - generic [ref=e587]:
+              - generic [ref=e588]: Description
+              - generic [ref=e589]: Mega Maths Mania is back, with more to explore! Join UNSW maths expert Dr Randell Heyman and explore the beautiful side of mathematics using only the basics you already know.
+          - link "View" [ref=e592] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/322?slug=Summer-Holiday-Fun:-Mega-Maths-Mania
+        - generic [ref=e594]:
+          - heading "Kids Connect" [level=4] [ref=e597]:
+            - strong [ref=e598]: Kids Connect
+          - generic [ref=e600]:
+            - generic [ref=e601]:
+              - generic [ref=e602]: Public
+              - generic [ref=e603]: Offline
+              - generic [ref=e604]: Free
+            - generic [ref=e606]: Ages 8 - 12
+          - generic [ref=e607]:
+            - generic [ref=e608]:
+              - generic [ref=e609]:
+                - generic [ref=e610]: Date
+                - paragraph [ref=e611]: 19.01.2026 - 19.01.2026
+              - generic [ref=e612]:
+                - generic [ref=e613]: Time
+                - paragraph [ref=e614]: 10:00 - 12:00
+            - generic [ref=e617]:
+              - generic [ref=e618]: Subject/Topic
+              - paragraph [ref=e619]: Holiday workshop/activity/meet-up
+            - generic [ref=e622]:
+              - generic [ref=e623]: Description
+              - generic [ref=e624]: This is a fun and interactive activity for children in a safe space to socially connect with other children, share ideas, and grow their social skills and self confidence through fun, engaging games and other activities.
+          - link "View" [ref=e627] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/321?slug=Kids-Connect
+        - generic [ref=e629]:
+          - heading "Slime School" [level=4] [ref=e632]:
+            - strong [ref=e633]: Slime School
+          - generic [ref=e635]:
+            - generic [ref=e636]:
+              - generic [ref=e637]: Public
+              - generic [ref=e638]: Offline
+              - generic [ref=e639]: Free
+            - generic [ref=e641]: Ages 5 - 15
+          - generic [ref=e642]:
+            - generic [ref=e643]:
+              - generic [ref=e644]:
+                - generic [ref=e645]: Date
+                - paragraph [ref=e646]: 16.01.2026 - 16.01.2026
+              - generic [ref=e647]:
+                - generic [ref=e648]: Time
+                - paragraph [ref=e649]: 10:30 - 11:30
+            - generic [ref=e652]:
+              - generic [ref=e653]: Subject/Topic
+              - paragraph [ref=e654]: Holiday workshop/activity/meet-up
+            - generic [ref=e657]:
+              - generic [ref=e658]: Description
+              - generic [ref=e659]: Come join us in person for a super fun and gooey experience at Slime School! You’ll get to mix, stretch, and squish your own slime creations while hanging out with others who love slime just as much as you do.
+          - link "View" [ref=e662] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/320?slug=Slime-School
+        - generic [ref=e664]:
+          - heading "Kids Creative Ceramic Projects" [level=4] [ref=e667]:
+            - strong [ref=e668]: Kids Creative Ceramic Projects
+          - generic [ref=e670]:
+            - generic [ref=e671]:
+              - generic [ref=e672]: Public
+              - generic [ref=e673]: Offline
+              - generic [ref=e674]: Paid
+            - generic [ref=e676]: Ages 10 - 16
+          - generic [ref=e677]:
+            - generic [ref=e678]:
+              - generic [ref=e679]:
+                - generic [ref=e680]: Date
+                - paragraph [ref=e681]: 28.01.2026 - 28.01.2026
+              - generic [ref=e682]:
+                - generic [ref=e683]: Time
+                - paragraph [ref=e684]: 13:00 - 15:00
+            - generic [ref=e687]:
+              - generic [ref=e688]: Subject/Topic
+              - paragraph [ref=e689]: Pottery/Clay work
+            - generic [ref=e692]:
+              - generic [ref=e693]: Description
+              - generic [ref=e694]: In this one-day sculpture workshop, students will learn fundamental hand-building skills to create functional wares to use around the home. Get creative with your designs! Turn a burger into a jar with a bread bun lid or make a stack of pancakes and turn them into coasters!
+          - link "View" [ref=e697] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/319?slug=Kids-Creative-Ceramic-Projects
+        - generic [ref=e699]:
+          - 'heading "Snooker: learning basics" [level=4] [ref=e702]':
+            - strong [ref=e703]: "Snooker: learning basics"
+          - generic [ref=e705]:
+            - generic [ref=e706]:
+              - generic [ref=e707]: Public
+              - generic [ref=e708]: Offline
+              - generic [ref=e709]: Paid
+            - generic [ref=e711]: Ages 10 - 15
+          - generic [ref=e712]:
+            - generic [ref=e713]:
+              - generic [ref=e714]:
+                - generic [ref=e715]: Date
+                - paragraph [ref=e716]: 03.04.2023 - 26.02.2026
+              - generic [ref=e717]:
+                - generic [ref=e718]: Time
+                - paragraph [ref=e719]: 16:00 - 17:00
+            - generic [ref=e722]:
+              - generic [ref=e723]: Subject/Topic
+              - paragraph [ref=e724]: PDHPE/Personal Development, Health and Physical Education
+            - generic [ref=e727]:
+              - generic [ref=e728]: Description
+              - generic [ref=e729]: EnglishImproved vocabulary by learning terms related to snooker such as 'cue', 'pot', and 'snooker'Enhanced reading comprehension by following the rules of snooker and understanding game strategiesDeveloped writing skills by writing about the experience of playing snooker and explaining the rules...
+          - link "View" [ref=e732] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/101?slug=Snooker:-learning-basics
+        - generic [ref=e734]:
+          - heading "Adults and Teens Homeschooling Choir" [level=4] [ref=e737]:
+            - strong [ref=e738]: Adults and Teens Homeschooling Choir
+          - generic [ref=e740]:
+            - generic [ref=e741]:
+              - generic [ref=e742]: Public
+              - generic [ref=e743]: Offline
+              - generic [ref=e744]: Free
+            - generic [ref=e746]: Ages 12 - 99
+          - generic [ref=e747]:
+            - generic [ref=e748]:
+              - generic [ref=e749]:
+                - generic [ref=e750]: Date
+                - paragraph [ref=e751]: 15.02.2024 - 11.04.2026
+              - generic [ref=e752]:
+                - generic [ref=e753]: Time
+                - paragraph [ref=e754]: 12:00 - 12:50
+            - generic [ref=e757]:
+              - generic [ref=e758]: Subject/Topic
+              - paragraph [ref=e759]: "Music: Choir, Band, Musical Instruments, Vocal and Theory"
+            - generic [ref=e762]:
+              - generic [ref=e763]: Description
+              - generic [ref=e764]: In 2024/2025 we are running 2 music exploration groups, a choir and 5 instrumental groups.Family Music Circle - for families with kids under 8, singing, dancing, story telling, discovering instruments, playing percussion, introductions to new types of music in a fun and relaxed environment.
+          - link "View" [ref=e767] [cursor=pointer]:
+            - /url: https://scoolendar.com/events/73?slug=Adults-and-Teens-Homeschooling-Choir
+    - generic [ref=e770]:
+      - generic [ref=e771]:
+        - list [ref=e772]:
+          - listitem
+          - listitem
+          - listitem
+          - listitem
+          - listitem
+          - listitem
+          - listitem
+        - listbox [ref=e773]:
+          - generic [ref=e774]:
+            - heading "Jane" [level=5] [ref=e775]
+            - heading "Thank you for all the notifications for the events from my calendar, having 5 kids I find this function really useful. Cheers, Jane" [level=3] [ref=e776]
+            - heading "    " [level=5] [ref=e778]:
+              - generic [ref=e779]: 
+              - generic [ref=e780]: 
+              - generic [ref=e781]: 
+              - generic [ref=e782]: 
+              - generic [ref=e783]: 
+          - text:                              
+      - link "" [ref=e784] [cursor=pointer]:
+        - /url: "#testimonial_slider"
+        - generic [ref=e785]: 
+      - link "" [ref=e786] [cursor=pointer]:
+        - /url: "#testimonial_slider"
+        - generic [ref=e787]: 
+  - contentinfo [ref=e788]:
+    - generic [ref=e789]:
+      - generic [ref=e792]:
+        - generic [ref=e793]:
+          - heading "Useful Links" [level=3] [ref=e795]
+          - list [ref=e796]:
+            - listitem [ref=e797]:
+              - link "Terms & Conditions" [ref=e798] [cursor=pointer]:
+                - /url: https://scoolendar.com/terms
+            - listitem [ref=e799]:
+              - link "Privacy Policies" [ref=e800] [cursor=pointer]:
+                - /url: https://scoolendar.com/privacy_policy
+            - listitem [ref=e801]:
+              - link "Contact Us" [ref=e802] [cursor=pointer]:
+                - /url: https://scoolendar.com/contact
+        - generic [ref=e803]:
+          - img "Scoolendar.com" [ref=e804]
+          - generic [ref=e805]:
+            - generic [ref=e806]: Support Scoolendar on Patreon
+            - link "Patreon" [ref=e807] [cursor=pointer]:
+              - /url: https://www.patreon.com/cw/Scoolendar?utm_source=scoolendar.com&utm_medium=footer&utm_campaign=support
+              - img "Patreon" [ref=e808]
+        - generic [ref=e809]:
+          - heading "Social Links" [level=3] [ref=e811]
+          - generic [ref=e812]:
+            - link "" [ref=e813] [cursor=pointer]:
+              - /url: https://www.facebook.com/profile.php?id=61550209153680
+              - generic [ref=e814]: 
+            - link "" [ref=e815] [cursor=pointer]:
+              - /url: https://www.youtube.com/@Scoolendar
+              - generic [ref=e816]: 
+            - link "" [ref=e817] [cursor=pointer]:
+              - /url: https://vk.ru/public222137849
+              - generic [ref=e818]: 
+      - generic [ref=e821]: Scoolendar © Copyright 2026. All rights reserved
+  - text: 

@@ -44,7 +44,7 @@ npm install cypress
 npx cypress open
 
 ```
-Follow propmpts and complete setup for Chrome. 
+Follow prompts and complete setup for Chrome. 
 Run `search.cy.js` in Cypress app to check if it is working.
 
 1. Run cypress tests from CLI
